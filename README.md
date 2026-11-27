@@ -5,7 +5,7 @@ This test case validates the benchmark's ability to handle projects that exceed 
 - **25,500 plain JavaScript utility files** (no security flaws)
 - **1 main.js file** with CWE89-01 SQL injection vulnerability
 
-## Structure
+## Structure..
 ```
 javascript-cwe89-01-25k/
 ├── main.js              # Contains CWE89-01 SQL Injection vulnerability
