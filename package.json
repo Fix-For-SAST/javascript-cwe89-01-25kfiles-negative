@@ -1,0 +1,6 @@
+{
+  "name": "javascript-cwe89-01-25k",
+  "version": "1.0.0",
+  "description": "Test case with 25k+ plain JS files to validate file limit handling",
+  "main": "main.js"
+}
